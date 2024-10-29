@@ -32,5 +32,7 @@ public class C {
         System.out.println("Nome do metodo: MC2");
     }
 
-
+    public void MC3() {
+        System.out.println("Nome do metodo: MC3");
+    }
 }
