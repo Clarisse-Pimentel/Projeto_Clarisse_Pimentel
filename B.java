@@ -31,4 +31,8 @@ public class B {
     public void MB2() {
         System.out.println("Nome do metodo: MB2");
     }
+
+    public void MB3() {
+        System.out.println("Nome do metodo: MB3");
+    }
 }
