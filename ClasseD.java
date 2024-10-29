@@ -32,4 +32,9 @@ public class ClasseD {
         System.out.println("Nome do metodo: MD2");
     }
 
+    public void MD3() {
+        System.out.println("Nome do metodo: MD3");
+    }
+
+
 }
